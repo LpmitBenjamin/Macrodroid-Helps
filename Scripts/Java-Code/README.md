@@ -11,3 +11,6 @@ It checks the current internet connection and indicates whether the device is co
 
 ## Select images from gallery
 Reads all images from the Android gallery and outputs filenames and storage paths sorted by the latest date.
+
+## Read music files
+Reads all saved audio files and outputs the title and artist from the Android media library.
