@@ -8,3 +8,6 @@ It reads the current Wi-Fi frequency and detects whether the device is connected
 
 ## Detect active network type
 It checks the current internet connection and indicates whether the device is connected via Wi-Fi, mobile data, or no network at all.
+
+## Select images from gallery
+Reads all images from the Android gallery and outputs filenames and storage paths sorted by the latest date.
