@@ -5,3 +5,6 @@ Reads all available calendars from the Android database and outputs their ID, na
 
 ## Read out WLAN frequency
 It reads the current Wi-Fi frequency and detects whether the device is connected to the 2.4 GHz or 5 GHz network.
+
+## Detect active network type
+It checks the current internet connection and indicates whether the device is connected via Wi-Fi, mobile data, or no network at all.
