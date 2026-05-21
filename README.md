@@ -17,13 +17,13 @@ Created and tested on Android 15 and with Macrodroid Pro.
 
 ## Repository Structure
 
-### 📁 Macros
+### 📁 [Macros](https://github.com/LpmitBenjamin/Macrodroid-Helps/tree/main/Macros)
 Ready-to-use MacroDroid macros.
 
-### 📁 Java Code
+### 📁 [Java Code](https://github.com/LpmitBenjamin/Macrodroid-Helps/tree/main/Scripts/Java-Code)
 Useful Java snippets for MacroDroid and Android development.
 
-### 📁 Shell Script (Toybox)
+### 📁 [Shell Script (Toybox)](https://github.com/LpmitBenjamin/Macrodroid-Helps/tree/main/Scripts/Shell%20Script)
 Shell scripts designed for Android Toybox environments.
 
 ---
