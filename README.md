@@ -2,7 +2,7 @@
 
 A collection of useful MacroDroid macros, Java code snippets, and shell scripts for Android automation.
 
-Created and tested on Android 15 and with Macrodroid Pro.
+Created and tested on Android 15 and with MacroDroid Pro
 
 ---
 
@@ -25,6 +25,15 @@ Useful Java snippets for MacroDroid and Android development.
 
 ### 📁 [Shell Script (Toybox)](https://github.com/LpmitBenjamin/Macrodroid-Helps/tree/main/Scripts/Shell%20Script)
 Shell scripts designed for Android Toybox environments.
+
+---
+
+## Support
+
+If you have any questions or need help, feel free to contact me via:
+
+- Discord: https://discord.com/users/539861110686220290  
+- Reddit: https://www.reddit.com/user/LpmitBenjamin/
 
 ---
 
